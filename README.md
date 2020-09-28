@@ -1,4 +1,4 @@
-# dee mirai 👋
+# dee mirai ✨
 Heya. I'm Dee (she/her). I'm a marketing director at [Cialfo](http://cialfo.co/) working on demand generation, operations, and product marketing. I spend my time between Singapore (where I grew up) and Chiang Rai, Thailand (where my family lives) 🙌 
 
 I'm a roguelike/lite nerd, speculative fiction writer, and I'm constantly hopping between a half-dozen somewhat completed side projects. 
