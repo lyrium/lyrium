@@ -1,12 +1,5 @@
 <h2 align="center">✨ Hi, I'm Dee</h2>
 
-<p align="center">
-  <a href="https://deemirai.com/">Website</a> •
-  <a href="https://www.linkedin.com/in/deemirai">LinkedIn</a>
-</p>
-
----
-
 I'm a marketing director at [Cialfo](http://cialfo.co/) working on demand generation, operations, and product marketing. I spend my time between Singapore (where I grew up) and Chiang Rai, Thailand (where my family lives).
 
 I'm a roguelike/lite nerd, speculative fiction writer, and I'm constantly hopping between a half-dozen somewhat completed side projects. 
