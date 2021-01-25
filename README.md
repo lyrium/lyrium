@@ -10,4 +10,4 @@ I like building, optimizing, and automating things—which means I refer to this
 An extended analysis of my nuance and errata is available at the [how-to-dee](https://github.com/lyrium/how-to-dee) repo.
 
 ### get in touch
-My personal site is [deemirai.com](deemirai.com) (currently under maintenance).
+My personal site is [deemirai.com](deemirai.com).
